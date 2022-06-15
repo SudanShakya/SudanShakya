@@ -30,7 +30,7 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 <hr>
 
 <h3 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</h3><br>
-<img src="https://github-profile-trophy.vercel.app/?username=SudanShakya&theme=juicyfresh&no-bg=true" />
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudanShakya&theme=juicyfresh&no-bg=true" /></p>
 <hr>
 
 <h3 align = "center"><b>Connect with me. :smiley:</b></h3>
