@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 <hr>
-<p align ="center">🔥 Streak Stats</p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SudanShakya&theme=github-green-purple" alt="SudanShakya"  /></p>
+ 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 <hr>
@@ -25,7 +30,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src = "https://github-profile-trophy.vercel.app/?username=SudanShakya&theme=juicyfresh&no-bg=true"/></p>
 
-<hr style="border-top: dashed">
+<hr>
 
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
