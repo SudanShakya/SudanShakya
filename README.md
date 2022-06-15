@@ -15,20 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 <hr>
- 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align ="center">My Github Stats</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SudanShakya&theme=github-green-purple" alt="SudanShakya"  /></p> <br>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=SudanShakya&show_icons=true&theme=ocean_dark" alt = "Sudan's Github Stats/></p> <br>
 
+<br>
 
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/> </p>
+ <br>
+
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chakravarthi-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" /> </p>
 
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src = "https://github-profile-trophy.vercel.app/?username=SudanShakya&theme=juicyfresh&no-bg=true"/></p>
+
+<hr>
+
+<p align = "center">Connect with me. :smiley:</p>
+
+<p>
+<a href="https://github.com/SudanShakya"><img src="https://img.shields.io/badge/-SudanShakya-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/sudan-shakya-26a876194"><img src="https://img.shields.io/badge/-Sudan-Shakya-blue?logo=linkedin&style=flat-square"></a>
+<a href="mailto:sudanshakya15@gmail.com"><img src="https://img.shields.io/badge/-sudanshakya15@gmail.com-black?logo=gmail&style=flat-square"/></a>
+</p>
 
 <hr>
 
