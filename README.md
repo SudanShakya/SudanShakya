@@ -14,7 +14,7 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
-
+<img align= "right" width= "240" src= "https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e4738efa1n24a1wycmj93r715jgthmx6fgg04dyysfx&rid=giphy.gif&ct=g"/>
 
 
 
