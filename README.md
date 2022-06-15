@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 
 <hr>
 <p align ="center">🔥 Streak Stats</p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SudanShakya&theme=algolia" alt="SudanShakya"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SudanShakya&theme=github-green-purple" alt="SudanShakya"  /></p>
 
 
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src = "https://github-profile-trophy.vercel.app/?username=SudanShakya&theme=juicyfresh&no-bg=true"/></p>
+
+<hr style="border-top: dashed">
+
+<p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
