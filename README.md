@@ -20,7 +20,6 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 
 <hr>
 <h3 align ="center"><b>My Github Stats</b></h3>
-<hr style = "border: 0.25px">
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SudanShakya&theme=github-green-purple" alt="SudanShakya"  /></p> <br>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=SudanShakya&show_icons=true&theme=ocean_dark" alt = "Sudan's Github Stats"/></p>
 
