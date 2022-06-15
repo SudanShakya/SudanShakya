@@ -23,11 +23,7 @@ Here are some ideas to get you started:
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=SudanShakya&show_icons=true&theme=ocean_dark" alt = "Sudan's Github Stats/></p> <br>
 
 <br>
-
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/> </p>
- <br>
-
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chakravarthi-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" /> </p>
+<br>
 
 <hr>
 
