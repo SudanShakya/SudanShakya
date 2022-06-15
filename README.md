@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=SudanShakya&show_icons=true&theme=ocean_dark" alt = "Sudan's Github Stats"/></p>
 
 <hr>
-<p align= "center"> Most Used Language</p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudanShakya&layout=compact&theme=midnight-purple" />
+<p align= "center"> Most Used Language 💻</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudanShakya&layout=compact&theme=midnight-purple" /></p>
 <hr>
 
 <p align = "center">Connect with me. :smiley:</p>
