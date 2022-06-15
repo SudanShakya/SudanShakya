@@ -26,11 +26,27 @@ Here are some ideas to get you started:
 
 <p align = "center">Connect with me. :smiley:</p>
 
-<p>
-<a href="https://github.com/SudanShakya"><img src="https://img.shields.io/badge/-SudanShakya-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/sudan-shakya-26a876194"><img src="https://img.shields.io/badge/-Sudan-Shakya-blue?logo=linkedin&style=flat-square"></a>
-<a href="mailto:sudanshakya15@gmail.com"><img src="https://img.shields.io/badge/-sudanshakya15@gmail.com-black?logo=gmail&style=flat-square"/></a>
-</p>
+<p align="center">
+  <a href="mailto:sudanshakya15@gmail.com" >
+    <img align="center" alt="Sudan Shakya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/sudan-shakya-26a876194" target="_blank">
+    <img align="center" alt="Sudan Shakya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/profile.php?id=100030714526572" target="_blank">
+      <img align="center" alt="Sudan Shakya | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/_jisudanshakya_/" target="_blank">
+    <img align="center" alt="Sudan Shakya | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/SudanShakya" target="_blank">
+    <img align="center" alt="Sudan Shakya | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+<p> 
 
 <hr>
 
