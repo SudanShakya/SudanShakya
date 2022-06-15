@@ -1,4 +1,4 @@
-<p align="center"><b>Hello, World!👋 Welcome to my profile.</b> </p>
+<h2 align="center"><b>Hello, World!👋 Welcome to my profile.</b> </h2>
 
 <hr>
 
@@ -14,22 +14,22 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
-<img align= "right" width= "240" src= "https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e4738efa1n24a1wycmj93r715jgthmx6fgg04dyysfx&rid=giphy.gif&ct=g"/>
+
 
 
 
 
 <hr>
-<p align ="center"><b>My Github Stats</b></p>
+<h3 align ="center"><b>My Github Stats</b></h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SudanShakya&theme=github-green-purple" alt="SudanShakya"  /></p> <br>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=SudanShakya&show_icons=true&theme=ocean_dark" alt = "Sudan's Github Stats"/></p>
 
 <hr>
-<p align= "center"> <b>Most Used Language 💻</b></p>
+<h3 align= "center"> <b>Most Used Language 💻</b></h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudanShakya&layout=compact&theme=midnight-purple" /></p>
 <hr>
 
-<p align = "center"><b>Connect with me. :smiley:</b></p>
+<h3 align = "center"><b>Connect with me. :smiley:</b></h3>
 
 <p align="center">
   <a href="mailto:sudanshakya15@gmail.com" >
