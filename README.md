@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=SudanShakya&show_icons=true&theme=ocean_dark" alt = "Sudan's Github Stats/></p>
 
 <hr>
-<br>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />Git profile Trophies</p><br>
-<p align="center"><img src = "https://github-profile-trophy.vercel.app/?username=SudanShakya&theme=juicyfresh&no-bg=true"/></p>
-
-<hr>
 
 <p align = "center">Connect with me. :smiley:</p>
 
