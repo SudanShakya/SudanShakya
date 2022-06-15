@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-profile-trophy.vercel.app/?username=SudanShakya&theme=juicyfresh&no-bg=true
+<img src = "https://github-profile-trophy.vercel.app/?username=SudanShakya&theme=juicyfresh&no-bg=true" />
