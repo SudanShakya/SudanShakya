@@ -1,33 +1,33 @@
-<p align="center">Hello, World!👋 Welcome to my profile. </p>
+<p align="center"><b>Hello, World!👋 Welcome to my profile.</b> </p>
 
-<!--
-**SudanShakya/SudanShakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **SudanShakya/SudanShakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Sudan Shakya. You can also call me a LEARNER.
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Front-End Development.
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Always ready to learn.
+
 
 
 
 <hr>
-<p align ="center">My Github Stats</p>
+<p align ="center"><b>My Github Stats</b></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SudanShakya&theme=github-green-purple" alt="SudanShakya"  /></p> <br>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=SudanShakya&show_icons=true&theme=ocean_dark" alt = "Sudan's Github Stats"/></p>
 
 <hr>
-<p align= "center"> Most Used Language 💻</p>
+<p align= "center"> <b>Most Used Language 💻</b></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudanShakya&layout=compact&theme=midnight-purple" /></p>
 <hr>
 
-<p align = "center">Connect with me. :smiley:</p>
+<p align = "center"><b>Connect with me. :smiley:</b></p>
 
 <p align="center">
   <a href="mailto:sudanshakya15@gmail.com" >
