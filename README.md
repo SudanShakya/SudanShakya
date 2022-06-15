@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=SudanShakya&show_icons=true&theme=ocean_dark" alt = "Sudan's Github Stats"/></p>
 
 <hr>
+<p align= "center"> Most Used Language</p>
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudanShakya=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+<hr>
 
 <p align = "center">Connect with me. :smiley:</p>
 
