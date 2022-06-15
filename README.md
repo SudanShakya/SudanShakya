@@ -1,6 +1,5 @@
 <h2 align="center"><b>Hello, World!👋 Welcome to my profile.</b> </h2>
 
-<hr>
 
 <!-- **SudanShakya/SudanShakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -21,6 +20,7 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 
 <hr>
 <h3 align ="center"><b>My Github Stats</b></h3>
+<hr style = "border: 1px">
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SudanShakya&theme=github-green-purple" alt="SudanShakya"  /></p> <br>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=SudanShakya&show_icons=true&theme=ocean_dark" alt = "Sudan's Github Stats"/></p>
 
