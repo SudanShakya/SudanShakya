@@ -59,5 +59,5 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 <hr>
 
 <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/SudanShakya/SudanShakya/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
