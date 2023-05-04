@@ -26,10 +26,7 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 <hr>
 <h3 align= "center"> <b>Most Used Language 💻</b></h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudanShakya&layout=compact&theme=midnight-purple" /></p>
-<hr>
 
-<h3 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</h3><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudanShakya&theme=juicyfresh&no-bg=true" /></p>
 <hr>
 
 <h3 align = "center"><b>Connect with me. :smiley:</b></h3>
