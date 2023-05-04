@@ -6,10 +6,10 @@
 I'm Sudan Shakya. You can also call me a LEARNER.
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Front-End Development.
+- 🌱 I’m currently learning ASP.NET Core and Angular.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Always ready to learn.
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 👯 I’m looking for internship opportunity and guidance to expand my skills. 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
