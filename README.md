@@ -10,6 +10,7 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Always ready to learn.
 - 👯 I’m looking for internship opportunity and guidance to expand my skills. 
+- 📫 How to reach me **sudanshakya15@gmail.com**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
