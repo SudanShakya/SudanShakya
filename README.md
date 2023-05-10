@@ -5,6 +5,8 @@
 
 I'm Sudan Shakya. You can also call me a LEARNER.
 
+<div>
+<div align="left">
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning ASP.NET Core and Angular.
 - 😄 Pronouns: he/him
@@ -14,10 +16,11 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
-
+</div>
 
 <div>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="120px" height="120px" style="margin-top: -50px;"/>
+</div>
 </div>
 <hr>
 <h3 align ="center"><b>My Github Stats</b></h3>
