@@ -17,11 +17,12 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 
-<hr>
 
+
+<!--
 <h3 align ="center"><b>My Github Stats</b></h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SudanShakya&theme=github-green-purple" alt="SudanShakya"  /></p> <br>
-
+-->
 <!-- <hr>
 <h3 align= "center"> <b>Most Used Language 💻</b></h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudanShakya&layout=compact&theme=midnight-purple" /></p> -->
@@ -53,7 +54,8 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 <p> 
 
 <hr>
-
+<!--
 <p align="center">
   <img src="https://github.com/SudanShakya/SudanShakya/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+-->
