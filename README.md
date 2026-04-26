@@ -8,10 +8,10 @@ I'm Sudan Shakya. You can also call me a LEARNER.
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="150px" height="150px"/>
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ASP.NET Core and Angular.
+- 🌱 ASP.NET, SQL developer, exploring the world of DATA SCIENCE.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Always ready to learn.
-- 👯 I’m looking for internship opportunity and guidance to expand my skills. 
+
 - 📫 How to reach me **sudanshakya15@gmail.com**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
